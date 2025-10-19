@@ -1,4 +1,4 @@
-- End-to-End HR Process Automation Using UiPath
+-End-to-End HR Process Automation Using UiPath
 This project presents an intelligent HR automation system developed using UiPath that streamlines the entire recruitment lifecycle — from collecting resumes to onboarding selected candidates. The solution eliminates repetitive manual tasks, improves accuracy, and boosts efficiency across HR workflows.
 
 - Key Workflow Overview
