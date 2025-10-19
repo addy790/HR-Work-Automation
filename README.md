@@ -51,7 +51,7 @@ Document Generation – ID card creation for selected candidates
 
 - Output Summary
   
-- | Process Stage        | Output File            | Description                                 |
+| Process Stage        | Output File            | Description                                 |
 |----------------------|------------------------|---------------------------------------------|
 | Resume Screening     | CandidateScores.xlsx    | Ranked list of applicants with final scores|
 | Interview Scheduling | InterviewInvites.log    | Status of email invites sent                |
