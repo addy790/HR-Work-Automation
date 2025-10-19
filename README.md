@@ -51,12 +51,13 @@ Document Generation – ID card creation for selected candidates
 
 - Output Summary
   
-Process Stage         |  Output File           |  Description                                
-----------------------+------------------------+---------------------------------------------
-Resume Screening      |  CandidateScores.xlsx  |  Ranked list of applicants with final scores
-Interview Scheduling  |  InterviewInvites.log  |  Status of email invites sent               
-ID Card Generation    |  IDCards/folder        |  Auto-generated employee ID PDFs            
-ERP Upload            |  UploadLog.xlsx        |  Confirmation of successful ERP entries  
+| Process Stage        | Output File            | Description                                 |
+|----------------------|------------------------|---------------------------------------------|
+| Resume Screening     | CandidateScores.xlsx    | Ranked list of applicants with final scores|
+| Interview Scheduling | InterviewInvites.log    | Status of email invites sent                |
+| ID Card Generation   | IDCards/ folder         | Auto-generated employee ID PDFs             |
+| ERP Upload           | UploadLog.xlsx          | Confirmation of successful ERP entries      |
+ 
 
 - Future Enhancements
   
